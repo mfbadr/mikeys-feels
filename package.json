@@ -1,0 +1,15 @@
+{
+  "name": "mikey-feels",
+  "version": "1.0.0",
+  "description": "A twitter bot for my feelings",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}
